@@ -1,10 +1,12 @@
 import "./App.css";
-import Conference from "./Components/conference";
+import Streaming from "./Components/streaming";
+// import Conference from "./Components/conference";
 
 function App() {
   return (
-    <div > 
-      <Conference />
+    <div>
+      <Streaming />
+      {/* <Conference /> */}
     </div>
   );
 }

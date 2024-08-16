@@ -6,7 +6,7 @@ import CameraControls from "./cameraControls";
 import ParticipantCount from "./participantCount";
 import Modal from "../utils/modal";
 
-VoxeetSDK.initialize("YOUR_CONSUMER_KEY", "YOUR_CONSUMER_SECRET");
+VoxeetSDK.initialize("LbGLcardatefTVzDDZWzfg==", "bpNQnJalR2v_3KrhbPUjqwhdCfQhQswlsVjtgZDkzzg=");
 
 const Conference = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
